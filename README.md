@@ -1,3 +1,3 @@
 # cart slider with html css and javascript
 
- ![alt](assets\image\readme.png)
+<img src="/assets/image/readme.png" alt="preview" width="600px" />
